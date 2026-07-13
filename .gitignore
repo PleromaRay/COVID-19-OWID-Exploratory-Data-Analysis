@@ -1,0 +1,29 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.env
+.env
+*.log
+*.sqlite3
+
+# OS generated files
+.DS_Store
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Plotly output files
+*.html
+
+# Python virtual environment
+venv/
+.env/
+ENV/
+env/
+
+# Git Large File Storage metadata
+*.gitattributes
