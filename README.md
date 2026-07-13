@@ -1,6 +1,6 @@
-# COVID-19 OWID Exploratory Analysis
+# COVID-19 OWID Exploratory Data Analysis
 
-A focused exploratory data analysis project using the Our World in Data (OWID) COVID-19 dataset, built with Python, pandas, seaborn, matplotlib, and Plotly.
+A notebook-based, exploratory analysis of the Our World in Data COVID-19 dataset, including data cleaning, summary analysis, and interactive geographic visualizations.
 
 ## Project Description
 
@@ -11,7 +11,7 @@ This repository contains a notebook-driven analysis of global COVID-19 trends us
 - country- and continent-level visualization
 - interactive maps and charts using Plotly
 
-The goal is to explore pandemic patterns, visualize geographic trends, and create reproducible outputs for further reporting or investigation.
+The goal is to explore pandemic patterns, visualize geographic trends, and create reproducible outputs for reporting or presentation.
 
 ## Repository Contents
 
@@ -20,7 +20,7 @@ The goal is to explore pandemic patterns, visualize geographic trends, and creat
 
 ## Getting Started
 
-1. Install the required packages.
+1. Install the required packages:
 
 ```bash
 pip install pandas numpy seaborn matplotlib plotly
@@ -30,7 +30,7 @@ pip install pandas numpy seaborn matplotlib plotly
 
 3. Run the notebook cells in order to load the data, inspect the dataset, and generate visualizations.
 
-
 ## Notes
 
 - For Plotly charts to display correctly in VS Code notebooks, ensure the notebook kernel has Plotly installed and the renderer is configured.
+
