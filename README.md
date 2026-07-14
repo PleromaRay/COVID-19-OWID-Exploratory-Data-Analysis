@@ -18,6 +18,13 @@ The goal is to explore pandemic patterns, visualize geographic trends, and creat
 - `exploratory_analysis.ipynb` — main Jupyter notebook with analysis code and visualization cells
 - `owid-covid-data.csv` — the raw OWID COVID-19 dataset
 
+## Recent changes
+
+- Added an analysis comparing `population_density` to `new_cases_per_million` at the continent level.
+- Added a continent-level scatter plot with regression-style trend line to assess whether higher density is associated with higher case rates.
+- Included a written interpretation of the plot results, showing that the relationship is weakly positive but not strong.
+- Added density quartile and case-rate ratio checks to help identify continent-level outliers.
+
 ## Getting Started
 
 1. Install the required packages:
